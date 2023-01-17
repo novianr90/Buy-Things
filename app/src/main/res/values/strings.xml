@@ -2,4 +2,8 @@
     <string name="app_name">Buy Things</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_electronics">Electronics</string>
+    <string name="txt_jewelries">Jewelries</string>
+    <string name="txt_men">Men</string>
+    <string name="txt_women">Women</string>
 </resources>
